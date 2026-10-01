@@ -1,0 +1,26 @@
+{
+  "repo": "easyworship-complete",
+  "product": "EasyWorship Complete",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "notes-productivity",
+  "topics": [
+    "easyworship-complete",
+    "easyworship-desktop",
+    "easyworship-windows",
+    "note-taking",
+    "task-management",
+    "knowledge-base",
+    "markdown-notes",
+    "workspace-sync",
+    "desktop-productivity",
+    "windows-notes",
+    "project-planning",
+    "wiki-tools",
+    "daily-workflow"
+  ],
+  "site": "zentool.art"
+}
